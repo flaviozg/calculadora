@@ -1,6 +1,15 @@
-# calculadora
+# Calculadora
 
 A new Flutter project.
+
+- Flutter
+- Dart
+- VS Code
+
+## Aditional Packages
+
+- auto_size_text: ^2.1.0
+- intl: ^0.16.1
 
 ## Getting Started
 
